@@ -4,4 +4,4 @@ A game coded in unity using C#.
 
 Objective is to have your army be the last people standing within the arena using your flashlight.
 
-![Flashlight General](output.jpg = 100x100)
+![Flashlight General](output.jpg)
